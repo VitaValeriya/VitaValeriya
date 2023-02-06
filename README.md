@@ -41,6 +41,11 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
             <a href="https://ping.pub/canto/staking/cantovaloper166x96e9cmaemtcyrr6lf8yz7m8f72ahn4p7z53" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/canto.png">
             </td>
+            <td width="130px" align="center">
+            <span><strong>PALOMA</strong></span><br><br />
+            <a href="https://paloma.explorers.guru/validator/palomavaloper19svt6tkvnu9wcjfwz2daglnxtm0frcavwjwcqe" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/Paloma_black.png"> </a>
+            </td>
         </tr>
     </tbody>
 </table>
@@ -72,8 +77,8 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
             </td>
             <td width="130px" align="center">
             <span><strong>PALOMA</strong></span><br><br />
-            <a href="https://paloma.explorers.guru/validator/palomavaloper19svt6tkvnu9wcjfwz2daglnxtm0frcavwjwcqe" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/paloma.png"> </a>
+            <a href="https://explorers.acloud.pp.ua/paloma-testnet/staking/palomavaloper19svt6tkvnu9wcjfwz2daglnxtm0frcavwjwcqe" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/Paloma_black.png"> </a>
             </td>
         </tr>
     </tbody>
