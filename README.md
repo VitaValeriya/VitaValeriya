@@ -34,7 +34,7 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
             <td width="130px" align="center">
             <span><strong>QUICKSILVER</strong></span><br><br />
             <a href="https://www.mintscan.io/quicksilver/validators/quickvaloper1wklm0cn5shfq5q06fp5efpj2qzdgca5g0malkf" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/quicksilver-logo.5613d52e3b710c285250.png">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/quicksilver-logo.15feec233d89d5ada7b0.png">
             </td>
             <td width="130px" align="center">
             <span><strong>PALOMA</strong></span><br><br />
