@@ -61,11 +61,6 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/haqq.png"> </a>
             </td>
             <td width="130px" align="center">
-            <span><strong>HUMANS</strong></span><br><br />
-            <a href="https://explorer.humans.zone/humans-testnet/staking/humanvaloper1ne5r9xlhwlvyamcrdnwy3pvqajcnnp5mvum9u8" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/h-logo.svg"> </a>
-            </td>
-            <td width="130px" align="center">
             <span><strong>MARS</strong></span><br><br />
             <a href="https://testnet-explorer.marsprotocol.io/validators/marsvaloper1sddv5ad3dcynk6q59glt3c5hka6qw9zkau0hq3" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/mars.png"> </a>
@@ -129,10 +124,21 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
             <a href="https://stride.zone" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/stride.png"> </a>
             </td>
+          </tr>
+    </tbody>
+</table>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
             <td width="130px" align="center">
             <span><strong>SUBSPACE</strong></span><br><br />
             <a href="https://subspace.network" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Subspace.jfif"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>HUMANS</strong></span><br><br />
+            <a href="https://humans.ai/" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/h-logo.svg"> </a>
             </td>
         </tr>
     </tbody>
