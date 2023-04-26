@@ -62,7 +62,7 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
             </td>
             <td width="130px" align="center">
             <span><strong>MARS</strong></span><br><br />
-            <a href="https://testnet-explorer.marsprotocol.io/validators/marsvaloper1sddv5ad3dcynk6q59glt3c5hka6qw9zkau0hq3" target="_blank" rel="noopener noreferrer">
+            <a href="https://testnet.mars.explorers.guru/validator/marsvaloper1sddv5ad3dcynk6q59glt3c5hka6qw9zkau0hq3" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/mars.png"> </a>
             </td>
             <td width="130px" align="center">
