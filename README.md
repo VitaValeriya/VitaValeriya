@@ -61,9 +61,9 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/haqq.png"> </a>
             </td>
             <td width="130px" align="center">
-            <span><strong>MARS</strong></span><br><br />
-            <a href="https://testnet.mars.explorers.guru/validator/marsvaloper1sddv5ad3dcynk6q59glt3c5hka6qw9zkau0hq3" target="_blank" rel="noopener noreferrer">
-            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/mars.png"> </a>
+            <span><strong>KYVE</strong></span><br><br />
+            <a href="https://app.kaon.kyve.network/#/validators/kyve1mj4k2cxx09ramcp58fqr6nex8gmz6uyczz0ll0" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Kyve.png"> </a>
             </td>
             <td width="130px" align="center">
             <span><strong>PALOMA</strong></span><br><br />
@@ -139,6 +139,11 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
             <span><strong>HUMANS</strong></span><br><br />
             <a href="https://humans.ai/" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/h-logo.svg"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>MARS</strong></span><br><br />
+            <a href="https://marsprotocol.io/" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/mars.png"> </a>
             </td>
         </tr>
     </tbody>
