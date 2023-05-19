@@ -70,6 +70,11 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
             <a href="https://explorers.acloud.pp.ua/paloma-testnet/staking/palomavaloper19svt6tkvnu9wcjfwz2daglnxtm0frcavwjwcqe" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Paloma_black.png"> </a>
             </td>
+            <td width="130px" align="center">
+            <span><strong>COMPOSABLE</strong></span><br><br />
+            <a href="https://testnet-explorer.genznodes.dev/composable/staking/banksyvaloper150fw2zgw6sezjwlh6uyle2dj5vmy3rcd750cq8" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/composable.png"> </a>
+            </td>
         </tr>
     </tbody>
 </table>
