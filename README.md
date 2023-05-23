@@ -70,10 +70,21 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
             <a href="https://explorers.acloud.pp.ua/paloma-testnet/staking/palomavaloper19svt6tkvnu9wcjfwz2daglnxtm0frcavwjwcqe" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Paloma_black.png"> </a>
             </td>
+          </tr>
+    </tbody>
+</table>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
             <td width="130px" align="center">
             <span><strong>COMPOSABLE</strong></span><br><br />
             <a href="https://explorer.nodexcapital.com/composable/staking/banksyvaloper150fw2zgw6sezjwlh6uyle2dj5vmy3rcd750cq8" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/composable.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>QUICKSILVER</strong></span><br><br />
+            <a href="https://testnet.quicksilver.explorers.guru/validator/quickvaloper193kqrgj8kd5nhufv4cas3cqg9mcvul3uqu4sra" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/quicksilver-logo.15feec233d89d5ada7b0.png">
             </td>
         </tr>
     </tbody>
