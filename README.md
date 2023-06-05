@@ -41,6 +41,11 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
             <a href="https://paloma.explorers.guru/validator/palomavaloper19svt6tkvnu9wcjfwz2daglnxtm0frcavwjwcqe" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Paloma_black.png"> </a>
             </td>
+            <td width="130px" align="center">
+            <span><strong>COMPOSABLE</strong></span><br><br />
+            <a href="https://explorer.nodexcapital.com/composable/staking/banksyvaloper1xj806ur5e9s2yzaag8wyffp542pkkmdapt0xtd" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/composable.png"> </a>
+            </td>
         </tr>
     </tbody>
 </table>
