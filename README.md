@@ -62,7 +62,7 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
         <tr valign="top">
             <td width="130px" align="center">
             <span><strong>HAQQ</strong></span><br><br />
-            <a href="https://explorer.bccnodes.com/haqq/staking/haqqvaloper1n7qt0f76ylmvjfr5fkr3ydylsxz8dyzuzwz7eh" target="_blank" rel="noopener noreferrer">
+            <a href="https://pingpub.explorer.testedge2.haqq.network/haqq/staking/haqqvaloper1n7qt0f76ylmvjfr5fkr3ydylsxz8dyzuzwz7eh" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/haqq.png"> </a>
             </td>
             <td width="130px" align="center">
