@@ -43,7 +43,7 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
             </td>
             <td width="130px" align="center">
             <span><strong>COMPOSABLE</strong></span><br><br />
-            <a href="https://explorer.nodexcapital.com/composable/staking/banksyvaloper1xj806ur5e9s2yzaag8wyffp542pkkmdapt0xtd" target="_blank" rel="noopener noreferrer">
+            <a href="https://ping.pub/Centauri/staking/centaurivaloper1xj806ur5e9s2yzaag8wyffp542pkkmdat7ty95" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/composable.png"> </a>
             </td>
         </tr>
