@@ -41,10 +41,21 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
             <a href="https://paloma.explorers.guru/validator/palomavaloper19svt6tkvnu9wcjfwz2daglnxtm0frcavwjwcqe" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Paloma_black.png"> </a>
             </td>
+          </tr>
+    </tbody>
+</table>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
             <td width="130px" align="center">
             <span><strong>COMPOSABLE</strong></span><br><br />
             <a href="https://ping.pub/Centauri/staking/centaurivaloper1xj806ur5e9s2yzaag8wyffp542pkkmdat7ty95" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/composable.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>HAQQ</strong></span><br><br />
+            <a href="https://haqq.explorers.guru/validator/haqqvaloper18k4qjmancvhfy99qjv2uzdxjgjwav0hlwq7rws" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/haqq.png"> </a>
             </td>
         </tr>
     </tbody>
