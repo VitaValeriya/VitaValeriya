@@ -57,6 +57,11 @@ Hey there! I’m VitaValeriya, professional PoS Validator and crypto-enthusiast.
             <a href="https://haqq.explorers.guru/validator/haqqvaloper18k4qjmancvhfy99qjv2uzdxjgjwav0hlwq7rws" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/haqq.png"> </a>
             </td>
+            <td width="130px" align="center">
+            <span><strong>KYVE</strong></span><br><br />
+            <a href="https://app.kyve.network/#/validators/kyve1mj4k2cxx09ramcp58fqr6nex8gmz6uyczz0ll0" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Kyve.png"> </a>
+            </td>
         </tr>
     </tbody>
 </table>
